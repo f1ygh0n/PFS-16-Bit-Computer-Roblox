@@ -1,6 +1,6 @@
 # PFS-16-Bit-Computer-Roblox
-This is a fully open source repository, which is a 16 bit computer simulated in roblox using real logic gates and binary. Updates are not expected to be regular.
-<a href="https://www.roblox.com/games/135542718852029/Project-Falcon-Sierra>Click here to go to game link</a><br>
+This is a fully open source repository, which is a 16 bit computer simulated in roblox using real logic gates and binary. Updates are not expected to be regular.<br>
+Game Link: https://www.roblox.com/games/135542718852029/Project-Falcon-Sierra <br>
 **Note: Game is only available to users 16+.. as I can't afford Roblox Plus T_T**
 
 ## Use of each file
